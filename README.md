@@ -1,4 +1,4 @@
-## Vishesh Varshney's GitHub Profile ‍
+# Hello World 👋 I'm Vishesh
 
 Hey there! I'm Vishesh Varshney, a 20-year-old B.Tech Computer Science and Engineering student at Manipal University Jaipur. I'm passionate about programming and constantly looking for ways to improve my skills.
 
