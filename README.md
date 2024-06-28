@@ -10,7 +10,7 @@ Hey there! I'm Vishesh Varshney, a 20-year-old B.Tech Computer Science and Engin
 
 ### Projects
 
-*  **WeatherCast** ([https://github.com/VisheshVarshney/weathercast](https://github.com/VisheshVarshney/weathercast)): A weather predictor and displayer application.
+*  [**WeatherCast**](https://github.com/VisheshVarshney/weathercast): A weather predictor and displayer application.
 
 **Working on a few more!**
 
@@ -20,8 +20,8 @@ I'm always open to collaborating on interesting projects. If you have something 
 
 ### Let's Connect!
 
-*  [Instagram](https://www.instagram.com/) (**@vishesh.gif**)
-*  [GitHub](https://github.com/) (**VisheshVarshney**)
-*  Email (**varshneyvisheshin@gmail.com**)
+*  [Instagram](https://www.instagram.com/@vishesh.gif)
+*  [GitHub](https://github.com/VisheshVarshney)
+*  Email: `varshneyvisheshin@gmail.com`
 
 I'm excited to learn and grow as a programmer. Thanks for visiting my profile!
