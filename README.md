@@ -1,16 +1,27 @@
-## Hi there 👋
+## Vishesh Varshney's GitHub Profile ‍
 
-<!--
-**VisheshVarshney/VIsheshVarshney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! I'm Vishesh Varshney, a 20-year-old B.Tech Computer Science and Engineering student at Manipal University Jaipur. I'm passionate about programming and constantly looking for ways to improve my skills.
 
-Here are some ideas to get you started:
+### Languages and Frameworks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*  JavaScript (Proficient)
+*  Python (Proficient)
+*  Frontend Technologies (In Progress)
+
+### Projects
+
+*  **WeatherCast** ([https://github.com/VisheshVarshney/weathercast](https://github.com/VisheshVarshney/weathercast)): A weather predictor and displayer application.
+
+**Working on a few more!**
+
+### Contributions
+
+I'm always open to collaborating on interesting projects. If you have something in mind, feel free to reach out!
+
+### Let's Connect!
+
+*  [Instagram](https://www.instagram.com/) (**@vishesh.gif**)
+*  [GitHub](https://github.com/) (**VisheshVarshney**)
+*  Email (**varshneyvisheshin@gmail.com**)
+
+I'm excited to learn and grow as a programmer. Thanks for visiting my profile!
