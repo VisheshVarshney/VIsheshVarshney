@@ -20,7 +20,6 @@ I'm always open to collaborating on interesting projects. If you have something 
 
 ### Let's Connect!
 
-*  [Instagram](https://www.instagram.com/@vishesh.gif)
 *  [GitHub](https://github.com/VisheshVarshney)
 *  Email: `varshneyvisheshin@gmail.com`
 
