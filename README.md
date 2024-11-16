@@ -11,7 +11,7 @@ Hey there! I'm Vishesh Varshney, a 20-year-old B.Tech Computer Science and Engin
 ### Projects
 
 *  [**WeatherCast**](https://github.com/VisheshVarshney/WeatherCast-Final): A weather predictor and displayer application.
-*  [**MUJConnect**](https://github.com/VisheshVarshney/MUJConnect): A anonymous/non-anonymous posting social media website for my college, MUJ.
+*  [**MUJConnect**](https://github.com/VisheshVarshney/MUJConnect): A anonymous/non-anonymous posting social media website for my college, MUJ. [ IN DEVELOPMENT ]
 
 **Working on a few more!**
 
