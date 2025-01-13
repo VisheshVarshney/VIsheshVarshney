@@ -1,27 +1,52 @@
-# Hello World 👋 I'm Vishesh
+# Hello, World! 👋 I'm **Vishesh Varshney**
 
-Hey there! I'm Vishesh Varshney, a 20-year-old B.Tech Computer Science and Engineering student at Manipal University Jaipur. I'm passionate about programming and constantly looking for ways to improve my skills.
+Welcome to my GitHub! I'm a **20-year-old B.Tech Computer Science and Engineering** student at **Manipal University Jaipur**, passionate about programming, solving problems, and constantly learning new technologies to improve my skills.
 
-### Languages and Frameworks
+---
 
-*  JavaScript (Proficient)
-*  Python (Proficient)
-*  Frontend Technologies (In Progress)
+### 🚀 **About Me**
 
-### Projects
+- 🌱 Currently honing my skills in **Frontend Technologies**.
+- 💻 Proficient in **Python**, **HTML** and **CSS**.
+- 🌟 Always excited to take on challenging projects and contribute to open-source.
 
-*  [**WeatherCast**](https://github.com/VisheshVarshney/WeatherCast-Final): A weather predictor and displayer application.
-*  [**MUJConnect**](https://github.com/VisheshVarshney/MUJConnect): A anonymous/non-anonymous posting social media website for my college, MUJ. [ IN DEVELOPMENT ]
+### 🛠️ **Tech Stack**
 
-**Working on a few more!**
+- **Languages:**
+  - JavaScript (Proficient)
+  - Python (Proficient)
+  - HTML & CSS (Proficient)
 
-### Contributions
+- **Frameworks & Tools:**
+  - React.js (Learning)
+  - Node.js (Exploring)
 
-I'm always open to collaborating on interesting projects. If you have something in mind, feel free to reach out!
+---
 
-### Let's Connect!
+### 📂 **Projects**
 
-*  [GitHub](https://github.com/VisheshVarshney)
-*  Email: `varshneyvisheshin@gmail.com`
+#### [🌤 WeatherCast](https://github.com/VisheshVarshney/WeatherCast-Final)
+A user-friendly weather prediction and display application to keep you updated with real-time conditions.
 
-I'm excited to learn and grow as a programmer. Thanks for visiting my profile!
+#### [🤝 MUJConnect](https://github.com/VisheshVarshney/MUJConnect)
+A unique **anonymous/non-anonymous social media platform** tailored for the students of MUJ. [In Development]
+
+> *More exciting projects are on the way!*
+
+---
+
+### 🤝 **Contributions and Collaborations**
+
+I'm always eager to collaborate on innovative and impactful projects. Have an idea? Let's build something amazing together! Feel free to reach out via email or GitHub.
+
+---
+
+### 🌐 **Let's Connect!**
+
+- 🖥️ [**Portfolio Website**](https://visheshvarshney.netlify.app) – Learn more about me and my work.
+- 🐙 [**GitHub**](https://github.com/VisheshVarshney) – Check out my projects and repositories.
+- 📧 **Email:** `varshneyvisheshin@gmail.com`
+
+---
+
+✨ Thank you for visiting my profile. I'm excited to grow and contribute as a programmer. Let's connect and create something extraordinary! 🌟
