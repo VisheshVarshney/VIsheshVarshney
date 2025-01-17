@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Vite, React and Tailwind**
 
-- 👨‍💻 All of my projects are available at [visheshvarshney.netlify.app](visheshvarshney.netlify.app)
+- 👨‍💻 All of my projects are available at [visheshvarshney.netlify.app](https://visheshvarshney.netlify.app/)
 
 - 📫 How to reach me **varshneyvisheshin@gmail.com**
 
