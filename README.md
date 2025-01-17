@@ -1,52 +1,21 @@
-# Hello, World! 👋 I'm **Vishesh Varshney**
+<h1 align="center">Hello world 👋, I'm Vishesh</h1>
+<h3 align="center">I'm a 20-year-old B.Tech Computer Science and Engineering student at Manipal University Jaipur, passionate about programming, solving problems, and constantly learning new technologies to improve my skills.</h3>
 
-Welcome to my GitHub! I'm a **20-year-old B.Tech Computer Science and Engineering** student at **Manipal University Jaipur**, passionate about programming, solving problems, and constantly learning new technologies to improve my skills.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=visheshvarshney&label=Profile%20views&color=0e75b6&style=flat" alt="visheshvarshney" /> </p>
 
----
+- 🔭 I’m currently working on [MUJ Connect](https://github.com/VisheshVarshney/MUJ-Connect)
 
-### 🚀 **About Me**
+- 🌱 I’m currently learning **Vite, React and Tailwind**
 
-- 🌱 Currently honing my skills in **Frontend Technologies**.
-- 💻 Proficient in **Python**, **HTML** and **CSS**.
-- 🌟 Always excited to take on challenging projects and contribute to open-source.
+- 👨‍💻 All of my projects are available at [visheshvarshney.netlify.app](visheshvarshney.netlify.app)
 
-### 🛠️ **Tech Stack**
+- 📫 How to reach me **varshneyvisheshin@gmail.com**
 
-- **Languages:**
-  - JavaScript (Proficient)
-  - Python (Proficient)
-  - HTML & CSS (Proficient)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-- **Frameworks & Tools:**
-  - React.js (Learning)
-  - Node.js (Exploring)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
----
-
-### 📂 **Projects**
-
-#### [🌤 WeatherCast](https://github.com/VisheshVarshney/WeatherCast-Final)
-A user-friendly weather prediction and display application to keep you updated with real-time conditions.
-
-#### [🤝 MUJConnect](https://github.com/VisheshVarshney/MUJConnect)
-A unique **anonymous/non-anonymous social media platform** tailored for the students of MUJ. [In Development]
-
-> *More exciting projects are on the way!*
-
----
-
-### 🤝 **Contributions and Collaborations**
-
-I'm always eager to collaborate on innovative and impactful projects. Have an idea? Let's build something amazing together! Feel free to reach out via email or GitHub.
-
----
-
-### 🌐 **Let's Connect!**
-
-- 🖥️ [**Portfolio Website**](https://visheshvarshney.netlify.app) – Learn more about me and my work.
-- 🐙 [**GitHub**](https://github.com/VisheshVarshney) – Check out my projects and repositories.
-- 📧 **Email:** `varshneyvisheshin@gmail.com`
-
----
-
-✨ Thank you for visiting my profile. I'm excited to grow and contribute as a programmer. Let's connect and create something extraordinary! 🌟
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=visheshvarshney&show_icons=true&locale=en&layout=compact" alt="visheshvarshney" /></p>
