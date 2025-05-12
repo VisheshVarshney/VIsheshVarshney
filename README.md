@@ -24,17 +24,21 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=visheshvarshney&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visheshvarshney&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=visheshvarshney&theme=radical" alt="GitHub Streak" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visheshvarshney&layout=compact&theme=radical&card_width=300" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🎧 Now Playing on Spotify
-
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=your_spotify_user_id&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31thmwd2ohvtcwi2okz3t2m5aapa&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31thmwd2ohvtcwi2okz3t2m5aapa&redirect=true" />
 </p>
 
 ---
