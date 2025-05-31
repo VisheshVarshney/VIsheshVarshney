@@ -8,7 +8,7 @@
 ---
 
 - 🔭 Currently working on [MUJ Connect](https://github.com/VisheshVarshney/MUJ-Connect) – a social platform for our university community
-- 🌱 Actively learning **Vite, React, Tailwind, Keras & PyTorch**  
+- 🌱 Actively learning **Vite, React, Tailwind CSS, Keras & PyTorch**  
 - 💻 Check out my work: [visheshvarshney.netlify.app](https://visheshvarshney.netlify.app/)  
 - 📫 Reach me at: **varshneyvisheshin@gmail.com**
 
