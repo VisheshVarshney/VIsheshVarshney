@@ -17,7 +17,7 @@
 ### ✨ Pinned Repositories:
 - [Retinal Vessel Segmentation](https://github.com/VisheshVarshney/Retinal-Vessel-Segmentation): Segments retinal vessels using several image processing techniques.
 - [Brain Tumor Detector](https://github.com/VisheshVarshney/brain-tumor-detector): A machine learning-based system for detecting brain tumors from MRI scans using advanced feature extraction and ensemble learning techniques.
-- [MedicSecure](https://github.com/VisheshVarshney/medicsecure):
+- [MedicSecure](https://github.com/VisheshVarshney/medicsecure): A privacy-focused web application for secure exchange of sensitive data between patient and doctors. (Incomplete)
 ---
 
 ### 🛠️ Languages and Tools
