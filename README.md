@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Vishesh</h1>
-<h3 align="center">A passionate 20-year-old CSE undergrad at Manipal University Jaipur, building solutions, learning new tech, and growing every day 🚀</h3>
+<h3 align="center">A passionate 21-year-old CSE undergrad at Manipal University Jaipur, building solutions, learning new tech, and growing every day 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=visheshvarshney&label=Profile%20views&color=0e75b6&style=flat" alt="visheshvarshney" />
@@ -7,11 +7,16 @@
 
 ---
 
-- 🔭 Currently working on [MUJ Connect](https://github.com/VisheshVarshney/MUJ-Connect) – a social platform for our university community  
+- 🔭 Currently working on [MUJ Connect](https://github.com/VisheshVarshney/MUJ-Connect) – a social platform for our university community
 - 🌱 Actively learning **Vite, React, Tailwind, Keras & PyTorch**  
 - 💻 Check out my work: [visheshvarshney.netlify.app](https://visheshvarshney.netlify.app/)  
 - 📫 Reach me at: **varshneyvisheshin@gmail.com**
 
+---
+
+### ✨ Pinned Repositories:
+- [Retinal Vessel Segmentation](https://github.com/VisheshVarshney/Retinal-Vessel-Segmentation): Segments retinal vessels using several image processing techniques.
+- [Brain Tumor Detector](https://github.com/VisheshVarshney/brain-tumor-detector)
 ---
 
 ### 🛠️ Languages and Tools
