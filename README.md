@@ -27,7 +27,7 @@
 </p>
 
 ---
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visheshvarshney&layout=compact&theme=radical&card_width=300" alt="Top Languages" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=VisheshVarshney&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a>
    
 ### 📫 Connect with Me
 
